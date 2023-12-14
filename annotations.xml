@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotations>
+  <version>1.1</version>
+  <meta>
+    <task>
+      <id>416097</id>
+      <name>teste_val</name>
+      <size>10</size>
+      <mode>annotation</mode>
+      <overlap>0</overlap>
+      <bugtracker></bugtracker>
+      <created>2023-12-14 09:29:41.371263+00:00</created>
+      <updated>2023-12-14 09:38:17.482233+00:00</updated>
+      <subset>default</subset>
+      <start_frame>0</start_frame>
+      <stop_frame>9</stop_frame>
+      <frame_filter></frame_filter>
+      <segments>
+        <segment>
+          <id>464724</id>
+          <start>0</start>
+          <stop>9</stop>
+          <url>https://app.cvat.ai/api/jobs/464243</url>
+        </segment>
+      </segments>
+      <owner>
+        <username>fernanda8</username>
+        <email>fernanda.sav@discente.ufma.br</email>
+      </owner>
+      <assignee></assignee>
+      <labels>
+        <label>
+          <name>hand</name>
+          <color>#f08cb3</color>
+          <type>any</type>
+          <attributes>
+          </attributes>
+        </label>
+      </labels>
+    </task>
+    <dumped>2023-12-14 09:38:33.643658+00:00</dumped>
+  </meta>
+  <image id="0" name="20062012maosFotoMarcosSantos020.jpg" width="1181" height="1772">
+    <points label="hand" source="manual" occluded="0" points="684.86,1510.27;517.40,1482.87;331.68,1333.68;200.76,1172.31;103.33,1090.11;453.46,1001.81;371.26,831.31;331.68,700.39;286.01,572.51;602.65,980.50;566.12,758.24;541.76,615.14;541.76,502.48;727.48,1007.90;764.02,810.00;770.11,679.07;773.15,560.33;882.76,1093.15;943.66,937.87;983.24,846.53;1022.82,761.28" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="63.75" ytl="465.95" xbr="1062.40" ybr="1769.07" z_order="0">
+    </box>
+  </image>
+  <image id="1" name="Hand_0000178.jpg" width="1600" height="1200">
+    <points label="hand" source="manual" occluded="0" points="829.90,113.40;992.78,127.83;1118.56,272.16;1165.98,435.05;1213.40,554.64;990.72,501.03;984.54,705.15;974.23,835.05;965.98,942.27;867.01,513.40;887.63,742.27;883.50,894.84;877.32,997.94;768.04,488.66;782.47,686.60;794.84,841.24;807.22,931.96;660.82,443.30;679.38,600.00;677.32,668.04;693.81,762.89" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="621.65" ytl="0.00" xbr="1236.08" ybr="1026.80" z_order="0">
+    </box>
+  </image>
+  <image id="2" name="Hand_0000183.jpg" width="1600" height="1200">
+    <points label="hand" source="manual" occluded="0" points="792.78,191.75;949.48,177.32;1097.94,309.28;1159.79,480.41;1234.02,585.57;974.23,562.89;1023.71,764.95;1040.21,878.35;1056.70,979.38;844.33,593.81;867.01,804.12;875.26,960.82;881.44,1065.98;737.11,587.63;743.30,762.89;751.55,898.97;759.79,1008.25;621.65,511.34;557.73,641.24;524.74,719.59;506.19,795.88" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="485.57" ytl="6.19" xbr="1254.64" ybr="1076.29" z_order="0">
+    </box>
+  </image>
+  <image id="3" name="Hand_0000187.jpg" width="1600" height="1200">
+    <points label="hand" source="manual" occluded="0" points="904.12,98.97;768.04,136.08;605.15,251.55;491.75,408.25;355.67,527.83;755.67,591.75;695.88,721.65;652.58,839.17;617.53,979.38;873.20,608.25;875.26,771.13;875.26,909.28;867.01,1020.62;982.47,579.38;1001.03,725.77;1023.71,849.48;1023.71,950.52;1114.43,488.66;1155.67,583.50;1188.66,653.61;1246.39,762.89" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="330.93" ytl="4.12" xbr="1275.26" ybr="1039.17" z_order="0">
+    </box>
+  </image>
+  <image id="4" name="ZIMI_ANTIESTRESSE.jpg" width="750" height="496">
+    <points label="hand" source="manual" occluded="0" points="148.70,275.25;201.53,192.59;306.36,159.35;427.38,149.12;508.34,199.40;452.94,207.93;487.88,223.27;515.16,240.31;555.21,284.63;423.97,277.81;464.02,299.97;497.26,311.90;528.79,345.99;375.39,332.35;421.41,354.51;441.01,366.44;467.43,380.93;327.66,370.70;369.42,400.53;406.07,409.91;364.31,380.08" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="0.41" ytl="101.40" xbr="567.14" ybr="435.47" z_order="0">
+    </box>
+  </image>
+  <image id="5" name="depositphotos_490349742-stock-photo-male-hand-on-white-background.jpg" width="560" height="600">
+    <points label="hand" source="manual" occluded="0" points="226.91,498.97;281.55,487.63;367.11,422.68;437.22,379.38;510.41,348.45;298.04,289.69;313.50,203.09;322.78,146.39;330.00,84.54;234.12,277.32;245.46,183.50;251.65,113.40;256.80,56.70;185.67,285.57;181.55,198.97;176.39,137.11;169.17,80.41;140.31,310.31;94.95,253.61;71.24,222.68;47.53,175.26" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="37.22" ytl="47.42" xbr="519.69" ybr="597.94" z_order="0">
+    </box>
+  </image>
+  <image id="6" name="eaosteo_200212_04.jpg" width="520" height="390">
+    <points label="hand" source="manual" occluded="0" points="284.44,365.19;233.52,364.52;184.60,311.58;151.09,266.69;104.86,219.11;228.16,230.50;220.11,156.79;220.11,109.21;224.80,80.40;271.04,216.43;273.05,144.06;278.41,90.45;285.11,52.25;309.91,225.81;327.33,160.81;342.07,121.27;362.18,81.07;350.11,247.92;377.59,215.09;386.30,180.91;397.02,143.39" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="99.50" ytl="46.22" xbr="407.74" ybr="387.30" z_order="0">
+    </box>
+  </image>
+  <image id="7" name="images.jpg" width="244" height="207">
+    <points label="hand" source="manual" occluded="0" points="116.50,96.58;117.92,81.28;106.54,62.79;94.80,42.16;89.11,25.09;73.46,63.86;57.81,56.74;51.05,57.45;40.38,57.45;64.57,75.59;49.63,70.61;44.65,68.12;39.67,70.61;67.06,84.84;55.32,83.77;49.99,83.42;42.52,82.00;67.06,98.36;56.74,97.64;52.47,96.58;49.99,96.58" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="31.85" ytl="22.60" xbr="244.00" ybr="194.03" z_order="0">
+    </box>
+  </image>
+  <image id="8" name="istockphoto-1071754550-612x612.jpg" width="612" height="408">
+    <points label="hand" source="manual" occluded="0" points="276.18,293.01;302.82,284.60;342.08,241.13;383.44,193.46;428.31,189.26;289.50,153.50;292.31,108.64;312.64,81.30;333.67,66.58;272.68,145.09;284.60,92.51;306.33,65.17;341.38,44.14;262.16,145.09;274.78,91.81;292.31,58.16;321.75,33.63;248.14,163.32;253.05,124.76;260.76,91.81;275.48,57.46" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="187.15" ytl="22.41" xbr="435.32" ybr="405.88" z_order="0">
+    </box>
+  </image>
+  <image id="9" name="s-l640.jpg" width="562" height="562">
+    <points label="hand" source="manual" occluded="0" points="268.93,530.13;192.64,491.51;68.08,333.14;41.04,213.41;137.60,176.71;250.58,181.54;266.03,84.01;327.83,41.52;308.52,106.22;346.18,206.65;397.36,60.84;393.50,102.36;362.60,180.57;427.29,261.69;508.41,181.54;475.58,146.78;426.33,203.75;477.51,342.80;525.79,304.18;536.41,235.62;497.79,275.21" z_order="0">
+    </points>
+    <box label="hand" source="manual" occluded="0" xtl="1.45" ytl="11.59" xbr="560.55" ybr="553.31" z_order="0">
+    </box>
+  </image>
+</annotations>
